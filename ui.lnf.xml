@@ -3,6 +3,7 @@
     <option name="EDITOR_AA_TYPE" value="Greyscale" />
     <option name="IDE_AA_TYPE" value="Greyscale" />
     <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
+    <option name="SHOW_TOOL_WINDOW_NUMBERS" value="true" />
     <option name="showTreeIndentGuides" value="true" />
   </component>
 </application>
