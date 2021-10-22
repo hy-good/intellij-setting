@@ -1,0 +1,8 @@
+<keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
+  <action id="MoveTabRight">
+    <keyboard-shortcut first-keystroke="ctrl meta close_bracket" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="ctrl close_bracket" />
+  </action>
+</keymap>
